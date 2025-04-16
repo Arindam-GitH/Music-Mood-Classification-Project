@@ -1,4 +1,26 @@
-# Music Mood Classification
+# Music Mood Classification Project
+
+## Description
+An intelligent music mood analyzer that decodes the emotional essence of songs through advanced machine learning. By analyzing six key audio features, this system achieves remarkable 95%+ accuracy in classifying music into four distinct emotional categories. Perfect for creating emotionally intelligent playlists, music recommendation systems, and understanding the psychological impact of music.
+
+## Topics
+- 🎵 Music Analysis
+- 🤖 Machine Learning
+- 🎯 Classification Algorithms
+- 📊 Data Visualization
+- 🎨 Audio Feature Extraction
+
+## Tools Used
+- **Python 3.8+**: Core programming language
+- **Scikit-learn**: Machine learning algorithms (KNN, SVM, Random Forest)
+- **TensorFlow**: Neural Network implementation
+- **Pandas & NumPy**: Data manipulation and numerical computations
+- **Matplotlib & Seaborn**: Data visualization
+- **Jupyter Notebooks**: Interactive development and analysis
+- **Git**: Version control
+- **Virtual Environment**: Dependency management
+
+## Project Overview
 
 This project implements a machine learning system for classifying music moods based on audio features. The system analyzes various musical characteristics to predict the mood of songs into categories like happy, sad, calm, and energetic.
 
